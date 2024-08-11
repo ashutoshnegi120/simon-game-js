@@ -32,7 +32,7 @@ A web-based version of the classic Simon game built with HTML, CSS, and JavaScri
     
 3. **Game Over**
   - The game ends if you click the wrong color.
-  - Press 'A' key to restart the game.
+  - Press any key to restart the game.
 
 ## Files
 - index.html – The main HTML file that structures the game.
